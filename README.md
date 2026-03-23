@@ -1,6 +1,6 @@
 **I aim to become a rising star in 3D Computer Vision and Physical AI !!!**
 
-(Selim Sarowar)[https://s-elim.github.io/] is pursuing M.Sc.(Computer Vision & AI track) at Yeungnam University (YU) as GKS Scholar, funded by Global Korea Scholarship (GKS), NIIED as well as additional funding by RLRC, Future Drive Ltd. & RISE projects (Industry Collaboration). He joined the (Advanced Visual Intelligence Lab)[https://avilabyu.wixsite.com/avil] under the supervision of Prof. Sungho Kim.
+[Selim Sarowar](https://s-elim.github.io/) is pursuing M.Sc.(Computer Vision & AI track) at Yeungnam University (YU) as GKS Scholar, funded by Global Korea Scholarship (GKS), NIIED as well as additional funding by RLRC, Future Drive Ltd. & RISE projects (Industry Collaboration). He joined the [Advanced Visual Intelligence Lab](https://avilabyu.wixsite.com/avil) under the supervision of Prof. Sungho Kim.
 
 His current research interests strongly lie in 3D computer vision & spatial reasoning, **5D robot manipulation**, 6D pose estimation, **vision-language-action(VLAs) & world models**, test-time-adaptation, efficient post-training to leverage **physical AI & embodied AI**.
 
