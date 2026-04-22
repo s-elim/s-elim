@@ -1,4 +1,4 @@
-**I aim to become a rising star in 3D Computer Vision and Physical AI !!!** **There is no free lunch**
+**I aim to become a rising star in 3D Computer Vision and Physical AI**, **There is no free lunch**
 
 [Selim Sarowar](https://s-elim.github.io/) is pursuing an M.Sc.(Computer Vision & AI track) at Yeungnam University (YU) as a GKS Scholar, funded by Global Korea Scholarship (GKS), NIIED, as well as additional funding by RLRC, Future Drive Ltd. & RISE projects (Industry Collaboration). He joined the [Advanced Visual Intelligence Lab](https://avilabyu.wixsite.com/avil) under the supervision of [Prof. Sungho Kim](https://scholar.google.com/citations?user=3TptC38AAAAJ&hl=en).
 
