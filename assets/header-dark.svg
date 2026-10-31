@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Md Selim Sarowar</title>
+  <desc id="desc">M.Sc. researcher in 3D computer vision, vision-language-action models, world models and agentic robotics at the Advanced Visual Intelligence Lab, Yeungnam University.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glowR" cx="0.82" cy="0.5" r="0.42">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowL" cx="0.02" cy="0" r="0.55">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#94a3b8" fill-opacity="0.10"/>
+    </pattern>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+    .eyebrow { font-size: 14px; font-weight: 600; letter-spacing: 3.5px; fill: #22d3ee; }
+    .name { font-size: 60px; font-weight: 800; letter-spacing: -1px; fill: #f8fafc; }
+    .sub { font-size: 20px; fill: #94a3b8; }
+    .label { font-size: 13px; font-weight: 600; letter-spacing: 3px; fill: #64748b; }
+    .focus { font-size: 30px; font-weight: 700; fill: url(#accent); opacity: 0; animation: cycle 15s ease-in-out infinite; }
+    /* Where animation never runs, the first focus line still shows. */
+    .f0 { opacity: 1; }
+    .f0 { animation-delay: 0s; }
+    .f1 { animation-delay: 3s; }
+    .f2 { animation-delay: 6s; }
+    .f3 { animation-delay: 9s; }
+    .f4 { animation-delay: 12s; }
+    .ring { transform-origin: 985px 160px; animation: spin 48s linear infinite; }
+    .cube { animation: float 6s ease-in-out infinite; }
+    .twinkle { animation: twinkle 2.4s ease-in-out infinite; }
+    .t1 { animation-delay: 0.4s; } .t2 { animation-delay: 0.8s; } .t3 { animation-delay: 1.2s; }
+    .t4 { animation-delay: 1.6s; } .t5 { animation-delay: 2s; }
+    .pulse { animation: twinkle 3.2s ease-in-out infinite; }
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(10px); }
+      3.00% { opacity: 1; transform: translateY(0); }
+      17.00% { opacity: 1; transform: translateY(0); }
+      20.00% { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 0; }
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grid)"/>
+    <rect width="1200" height="320" fill="url(#glowL)"/>
+    <rect width="1200" height="320" fill="url(#glowR)"/>
+    <rect width="1200" height="4" fill="url(#accent)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="20" fill="none" stroke="#1f2937"/>
+
+  <text class="eyebrow" x="60" y="82">PHYSICAL SUPER INTELLIGENCE  ·  EMBODIED AI</text>
+  <text class="name" x="58" y="148">Md Selim Sarowar</text>
+  <text class="sub" x="60" y="188">M.Sc. Researcher  ·  Advanced Visual Intelligence Lab, Yeungnam University</text>
+  <rect x="60" y="216" width="56" height="3" rx="1.5" fill="url(#accent)"/>
+  <text class="label" x="60" y="248">CURRENT FOCUS</text>
+  <text class="focus f0" x="60" y="284">World Models &amp; Latent Planning</text>
+  <text class="focus f1" x="60" y="284">Vision-Language-Action Models</text>
+  <text class="focus f2" x="60" y="284">Agentic Robotics for Manipulation</text>
+  <text class="focus f3" x="60" y="284">3D Spatial Intelligence &amp; 6D Pose</text>
+  <text class="focus f4" x="60" y="284">Physical Super Intelligence</text>
+
+  <!-- Right: a 3D cube (perception) on orbits (prediction), linked like a graph (reasoning). -->
+  <g stroke="#334155" stroke-width="1" opacity="0.9">
+    <line x1="868" y1="58" x2="931" y2="129"/>
+    <line x1="1118" y1="64" x2="1039" y2="129"/>
+    <line x1="1132" y1="258" x2="1039" y2="191"/>
+    <line x1="856" y1="262" x2="931" y2="191"/>
+  </g>
+  <g fill="#e2e8f0">
+    <circle class="pulse" cx="868" cy="58" r="4"/>
+    <circle class="pulse t2" cx="1118" cy="64" r="4"/>
+    <circle class="pulse t4" cx="1132" cy="258" r="4"/>
+    <circle class="pulse t3" cx="856" cy="262" r="4"/>
+  </g>
+
+  <circle class="ring" cx="985" cy="160" r="132" fill="none" stroke="#334155" stroke-width="1.5" stroke-dasharray="2 9"/>
+
+  <g transform="rotate(-18 985 160)">
+    <ellipse cx="985" cy="160" rx="150" ry="46" fill="none" stroke="url(#accent)" stroke-opacity="0.6" stroke-width="1.4"/>
+    <circle r="5" fill="#22d3ee" filter="url(#glow)">
+      <animateMotion dur="9s" repeatCount="indefinite" path="M835,160 a150,46 0 1,0 300,0 a150,46 0 1,0 -300,0"/>
+    </circle>
+  </g>
+  <g transform="rotate(26 985 160)">
+    <ellipse cx="985" cy="160" rx="138" ry="38" fill="none" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="1.2"/>
+    <circle r="4.5" fill="#a78bfa" filter="url(#glow)">
+      <animateMotion dur="12s" repeatCount="indefinite" path="M847,160 a138,38 0 1,1 276,0 a138,38 0 1,1 -276,0"/>
+    </circle>
+  </g>
+
+  <g class="cube">
+    <path d="M985,98 L1039,129 L985,160 L931,129 Z" fill="#22d3ee" fill-opacity="0.20"/>
+    <path d="M931,129 L985,160 L985,222 L931,191 Z" fill="#a78bfa" fill-opacity="0.26"/>
+    <path d="M985,160 L1039,129 L1039,191 L985,222 Z" fill="#0ea5e9" fill-opacity="0.16"/>
+    <g fill="none" stroke="#67e8f9" stroke-width="1.6" stroke-linejoin="round" stroke-opacity="0.9">
+      <path d="M985,98 L1039,129 L1039,191 L985,222 L931,191 L931,129 Z"/>
+      <path d="M931,129 L985,160 L1039,129 M985,160 L985,222"/>
+    </g>
+    <g fill="#67e8f9">
+      <circle class="twinkle" cx="968" cy="131" r="2.2"/>
+      <circle class="twinkle t1" cx="1004" cy="122" r="2"/>
+      <circle class="twinkle t2" cx="952" cy="176" r="2.2"/>
+      <circle class="twinkle t3" cx="962" cy="196" r="1.8"/>
+      <circle class="twinkle t4" cx="1012" cy="168" r="2.2"/>
+      <circle class="twinkle t5" cx="1022" cy="192" r="1.8"/>
+    </g>
+  </g>
+</svg>
