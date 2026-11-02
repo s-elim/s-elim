@@ -99,7 +99,7 @@ flowchart LR
 | 👁️ **Perceive** | How precisely can a robot recover object pose and geometry? | [C3G-VM6D](https://ieeexplore.ieee.org/document/11400555) · [VLM6D](https://arxiv.org/abs/2511.00120) · [VFM-VLM](https://arxiv.org/abs/2512.07215) · [MSP](https://physical-super-intelligence.github.io/MSP-FRAMEWORK/) |
 | 🧭 **Reason** | How should 3D geometry enter a vision-language-action policy? | [GaussVLA](https://gaussvla.github.io/GaussVLA/) · [GST-VLA](https://openreview.net/forum?id=J57nR3hyAd) |
 | 🌍 **Predict** | Can an agent imagine the outcome before it acts? | [Agentic-WM](https://physical-super-intelligence.github.io/Agentic-LWM/) · [AGI](https://physical-super-intelligence.github.io/Agentic-Intelligence/) |
-| 🦾 **Act** | Can affordances drive zero-shot manipulation, and how do we measure it? | [AFFORD-X](https://physical-super-intelligence.github.io/AFFORD-X/) · [AFFORD-Bench](https://physical-super-intelligence.github.io/AFFORD_Bench/) |
+| 🦾 **Act** | Can affordances drive zero-shot manipulation, and how do we measure it? | [AFFORD-X](https://physical-super-intelligence.github.io/AFFORD-X/) · [PLUMB-Bench](https://physical-super-intelligence.github.io/PLUMB_Bench/) |
 
 <p align="center">
 <code>World Models</code> <code>H/V-JEPA</code> <code>VLAs</code> <code>Agentic Robotics</code> <code>Spatial Intelligence</code> <code>Causal Learning</code> <code>Self Modeling</code> <code>RL Fine-Tuning</code> <code>5D Embodied & Humanoid Intelligence</code>
@@ -306,8 +306,8 @@ Full list on the [homepage](https://s-elim.github.io/publications/) and [Google 
 </tr>
 </table>
 
-📦 **AFFORD-Bench** — An Affordance-Grounded Benchmark and Generalization Evaluation for Robot Learning<br>
-<sub>In preparation · [🌐 Project page](https://physical-super-intelligence.github.io/AFFORD_Bench/) · [💻 Code](https://github.com/s-elim/AFFORD_Bench)</sub>
+📦 **PLUMB-Bench** — A Physically Verified Benchmark for Precise, Generalizable Robot Manipulation<br>
+<sub>In preparation · [🌐 Project page](https://physical-super-intelligence.github.io/PLUMB_Bench/) · [💻 Code](https://github.com/s-elim/PLUMB_Bench)</sub>
 
 ## 🧰 Toolbox
 
