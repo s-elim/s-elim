@@ -95,7 +95,7 @@ flowchart LR
 |:--|:--|:--|
 | **Perceive** | How precisely can a robot recover object pose and geometry? | [C3G-VM6D](https://ieeexplore.ieee.org/document/11400555) · [VLM6D](https://arxiv.org/abs/2511.00120) · [VFM-VLM](https://arxiv.org/abs/2512.07215) · [MSP](https://physical-super-intelligence.github.io/MSP-FRAMEWORK/) |
 | **Reason** | How should 3D geometry enter a vision-language-action policy? | [GaussVLA](https://gaussvla.github.io/GaussVLA/) · [GST-VLA](https://openreview.net/forum?id=J57nR3hyAd) |
-| **Predict** | Can an agent imagine the outcome before it acts? | [Agentic-WM](https://physical-super-intelligence.github.io/Agentic-LWM/) · [AGI](https://physical-super-intelligence.github.io/Agentic-Intelligence/) |
+| **Predict** | Can an agent imagine the outcome before it acts? | [Agentic-LWM](https://physical-super-intelligence.github.io/Agentic-LWM/) · [AGI](https://physical-super-intelligence.github.io/Agentic-Intelligence/) |
 | **Act** | Can affordances drive zero-shot manipulation, and how do we measure it? | [AFFORD-X](https://physical-super-intelligence.github.io/AFFORD-X/) · [PLUMB-Bench](https://physical-super-intelligence.github.io/PLUMB_Bench/) |
 
 ## Selected Publications
@@ -292,10 +292,10 @@ Full list on the [homepage](https://s-elim.github.io/publications/) and [Google 
 </td>
 </tr>
 <tr>
-<td width="30%" valign="top"><a href="https://physical-super-intelligence.github.io/Agentic-LWM/"><img src="assets/research/awm-framework.webp" alt="Agentic-WM framework" width="100%"></a></td>
+<td width="30%" valign="top"><a href="https://physical-super-intelligence.github.io/Agentic-LWM/"><img src="assets/research/awm-framework.webp" alt="Agentic-LWM framework" width="100%"></a></td>
 <td valign="top">
 
-**Agentic-WM: Grounding Multimodal Policies in Hierarchical Latent World Model**<br>
+**Agentic-LWM: Grounding Multimodal Policies in Hierarchical Latent World Model**<br>
 <sub>In preparation</sub><br>
 [Project page](https://physical-super-intelligence.github.io/Agentic-LWM/)
 </td>
