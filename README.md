@@ -296,7 +296,7 @@ Full list on the [homepage](https://s-elim.github.io/publications/) and [Google 
 <td valign="top">
 
 **Agentic-LWM: Grounding Multimodal Policies in Hierarchical Latent World Model**<br>
-<sub>In preparation</sub><br>
+<sub>Under review</sub><br>
 [Project page](https://physical-super-intelligence.github.io/Agentic-LWM/)
 </td>
 </tr>
@@ -305,7 +305,7 @@ Full list on the [homepage](https://s-elim.github.io/publications/) and [Google 
 <td valign="top">
 
 **PLUMB-Bench: A Physically Verified Benchmark for Precise, Generalizable Robot Manipulation**<br>
-<sub>In preparation</sub><br>
+<sub>Under review</sub><br>
 [Project page](https://physical-super-intelligence.github.io/PLUMB_Bench/) · [Code](https://github.com/s-elim/PLUMB_Bench)
 </td>
 </tr>
